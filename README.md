@@ -1,1 +1,1 @@
-# Made for termux and android roblox executor.
+# Made for termux and roblox android executor.
