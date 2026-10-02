@@ -1,4 +1,4 @@
-AutoRejoin_Version = 105
+AutoRejoin_Version = 100
 
 local FileName = 'autorejoin.lua'
 local URL = 'https://raw.githubusercontent.com/nvkob1/Roblox-AutoRejoin/refs/heads/main/autorejoin.lua'
