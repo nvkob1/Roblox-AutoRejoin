@@ -1,4 +1,4 @@
-AutoRejoin_Version = 105
+AutoRejoin_Version = 100
 
 local AutoRejoin = {}
 
